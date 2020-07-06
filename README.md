@@ -1,1 +1,1 @@
-# neural-etworks-and-deep-learning-marterial
+# neural-networks-and-deep-learning-marterial
